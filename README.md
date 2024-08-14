@@ -12,4 +12,4 @@
 ---------------------------------------------------------------------------------------
 - The test execution report
   - [View Report](./report/report.html)
-    - Click on any browser icon in IntelliJ to view the report
+    - After opening the report code >> Click on any browser icon in IntelliJ to view the execution report
